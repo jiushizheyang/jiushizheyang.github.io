@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>歌曲故事之一——Eternal Wish</title>
+    <url>/2020/10/18/Wish/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="0-序言"><a href="#0-序言" class="headerlink" title="0.序言"></a>0.序言</h4><h4 id="1-回忆碎片-绽放的恋心"><a href="#1-回忆碎片-绽放的恋心" class="headerlink" title="1.回忆碎片-绽放的恋心"></a>1.回忆碎片-绽放的恋心</h4><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>若你知晓我的思念</p>
+<p>回忆的碎片 闪烁着恋爱的颜色</p>
+<p>春风的细语 拨动着思念的弦声 </p>
+<p>怦然的心动 绽放着淡淡的恋心</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+<a id="more"></a>
+
+<h4 id="2-离别之刻-凄美的誓言"><a href="#2-离别之刻-凄美的誓言" class="headerlink" title="2.离别之刻-凄美的誓言"></a>2.离别之刻-凄美的誓言</h4><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>泣不成声 离别的不舍</p>
+<p>面容摇曳 凄美的誓言</p>
+<p>二人紧紧相拥 无法说出的话语</p>
+<p>双手合十 颤抖着祈愿</p>
+<p>无法忘记 凝视的眼神 </p>
+<p>即使孑然一人 仍要传达的思念</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+
+
+<h4 id="3-少女心愿-闪耀的恋歌"><a href="#3-少女心愿-闪耀的恋歌" class="headerlink" title="3.少女心愿-闪耀的恋歌"></a>3.少女心愿-闪耀的恋歌</h4><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>随风飞舞的小小心愿 </p>
+<p>散发着梦幻搬的桃香</p>
+<p>无论到何处定然闪耀</p>
+<p>思念化作永恒的恋歌</p>
+<p>跨越四季流转的时光</p>
+<p>一如既往，永不改变</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+
+
+
+
+<h4 id="4-沉溺美梦-两心的牵绊"><a href="#4-沉溺美梦-两心的牵绊" class="headerlink" title="4.沉溺美梦-两心的牵绊"></a>4.沉溺美梦-两心的牵绊</h4><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>没有说出的请抱紧我</p>
+<p>埋藏心底的羞涩涌现</p>
+<p>若只能实现一个愿望</p>
+<p>拜托请让我不再害怕</p>
+<p>凝视的眼神无法忘却</p>
+<p>在你怀中展望的梦想</p>
+<p>以及惹人爱恋的视线</p>
+<p>动摇了我桃色的内心</p>
+<p>染上二人牵绊的颜色</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+
+<h4 id="5-约定之日-传达的思念"><a href="#5-约定之日-传达的思念" class="headerlink" title="5.约定之日-传达的思念"></a>5.约定之日-传达的思念</h4><blockquote class="blockquote-center">
+            <i class="fa fa-quote-left"></i>
+            <p>一定可以再次相见的</p>
+<p>在那曾经约定的地方</p>
+<p>心中虽有少许的不安</p>
+<p>恋心使我们紧紧连结</p>
+<p>桃色的梦在风中飘荡</p>
+<p>思念一如既往传达吧</p>
+
+            <i class="fa fa-quote-right"></i>
+          </blockquote>
+
+<h4 id="6-后记"><a href="#6-后记" class="headerlink" title="6.后记"></a>6.后记</h4>]]></content>
+      <categories>
+        <category>music</category>
+      </categories>
+      <tags>
+        <tag>acg</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/10/18/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test1</title>
+    <url>/2020/10/18/test1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+</search>
